@@ -20,13 +20,13 @@ An AI-powered spam detection system using Support Vector Machine (SVM) and Natur
 ## 📸 Screenshots
 
 ### Main Interface
-![App Interface](screenshots/main-interface.png)
+![App Interface](Screenshots/main-interface.png)
 
 ### Spam Detection
-![Spam Detected](screenshots/spam-detection.png)
+![Spam Detected](Screenshots/spam-detection.png)
 
 ### Safe Message
-![Safe Message](screenshots/safe-message.png)
+![Safe Message](Screenshots/safe-message.png)
 
 ## 🛠️ Technologies Used
 
