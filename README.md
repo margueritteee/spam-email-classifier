@@ -174,32 +174,6 @@ To retrain the model with your own data:
 4. **Compare models** and select the best performer
 5. **Save model** - will generate new model files
 
-## 🚀 Deployment
-
-### Deploy to Streamlit Cloud (Free)
-
-1. Push code to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your repository
-4. Set main file: `app.py`
-5. Deploy!
-
-### Deploy to Other Platforms
-
-- **Heroku**: Add `Procfile` and `setup.sh`
-- **AWS**: Use EC2 or Lambda
-- **Google Cloud**: Use Cloud Run
-- **Azure**: Use App Service
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 Future Enhancements
 
@@ -221,8 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Kezrane Margueritte**
 
 - GitHub: [@margueritteee](https://github.com/margueritteee)
-- Portfolio: [Your Website] *(optional)*
-- LinkedIn: [Your LinkedIn] *(optional)*
 
 ## 🙏 Acknowledgments
 
