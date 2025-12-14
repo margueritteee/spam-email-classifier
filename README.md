@@ -6,7 +6,7 @@ An AI-powered spam detection system using Support Vector Machine (SVM) and Natur
 
 ## 🚀 Live Demo
 
-**Try it here:** [Spam Detector App](https://your-app-url.streamlit.app) *(Coming Soon)*
+**Try it here:** [🛡️ Spam Detector App](https://spam-email-classifier-kezrane.streamlit.app/)
 
 ## ✨ Features
 
